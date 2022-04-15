@@ -25,6 +25,8 @@ func SignUp(ctx *gin.Context) {
 	if len(passwd) < 8 {
 		appG.Response(http.StatusBadRequest, "密码强度不足", gin.H{
 			"passwd": passwd,
+			"name":   name,
+			"email":  email,
 		})
 		return
 	}

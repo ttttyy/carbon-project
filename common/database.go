@@ -20,7 +20,7 @@ func InitDB() *gorm.DB {
 	if err != nil {
 		log.Fatal("Fail to read file: ", err)
 	}
-	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=%s",
+	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=%s&parseTime=true",
 		cfg.Section("database").Key("User").String(), cfg.Section("database").Key("Password").String(),
 		cfg.Section("database").Key("Host").String(), cfg.Section("database").Key("Port").String(),
 		cfg.Section("database").Key("Name").String(), cfg.Section("database").Key("Charset").String())
