@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5409cc42-3cf8-40ba-a672-8d147cea8d3b" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/common/jwt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/AuthMiddleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/CORSMiddleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/api/v1/info.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/database.go" beforeDir="false" afterPath="$PROJECT_DIR$/common/database.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/SignIn.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/SignIn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/SignUp.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/SignUp.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/future.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/future.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/transaction.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/transaction.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/material-vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/material-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/material-vue/src/components/Header/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/components/Header/Header.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/material-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/main.js" afterDir="false" />
@@ -123,7 +112,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
