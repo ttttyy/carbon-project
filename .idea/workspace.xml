@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5409cc42-3cf8-40ba-a672-8d147cea8d3b" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/web/material-vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/src/components/Header/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/components/Header/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/src/pages/Dashboard/Dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/pages/Dashboard/Dashboard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/src/pages/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/pages/Login/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/material-vue/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/material-vue/vue.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="5409cc42-3cf8-40ba-a672-8d147cea8d3b" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
